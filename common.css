@@ -1,0 +1,38 @@
+h1 {
+
+    font-family: "Times New Roman";
+    color: blue;
+
+    }
+
+h2 {
+
+    font-family: Arial;
+    color: lightpink;
+
+}
+
+.button {
+
+    text-align: center;
+    position: absolute;
+
+}
+
+.profile{
+
+font-size: large;
+    color: crimson;
+}
+
+.prof{
+
+    text-align: center;
+}
+
+.content{
+
+    font-size: large;
+}
+
+
